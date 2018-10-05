@@ -85,3 +85,6 @@ https://www.robots.ox.ac.uk/~vgg/publications/2012/Jammalamadaka12a/jammalamadak
 
 ## Informative roadmap on 2D Human Pose Estimation research
 - [Presentation by Wei Yang](https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation)
+
+
+
