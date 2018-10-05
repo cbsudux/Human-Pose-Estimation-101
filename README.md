@@ -1,7 +1,7 @@
 # Human Pose Estimation 101
 
 
-# Table of Contents
+## Table of Contents
 - [Basics](#basics)
 - [Loss](#loss)
 - [Evaluation metrics](#evaluation-metrics)
@@ -13,9 +13,8 @@
  - [Important applications](#important-applications)
  - [Extra](#Informative-roadmap-on-2d-human-pose-estimation-research)
 
-# Basics
 
-## Human Pose Estimation
+## Basics 
 - Defined as the problem of localization of human joints (or) keypoints
 - A rigid body consists of joints and rigid parts. A body with strong articulation is a body with strong contortion. 
 - Pose Estimation is the search for a specific pose in space of all articulated poses
