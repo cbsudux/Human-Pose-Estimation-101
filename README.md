@@ -1,4 +1,4 @@
-# Human-Pose-Estimation-101
+# Human Pose Estimation 101
 
 
 # Table of Contents
