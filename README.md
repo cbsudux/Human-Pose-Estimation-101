@@ -81,7 +81,7 @@ https://www.robots.ox.ac.uk/~vgg/publications/2012/Jammalamadaka12a/jammalamadak
 - Human-Computer Interaction (HCI)
 - Virtual Reality
 - Augmented Reality
-- Amazon Go presents an important domain for the application of human Pose Estimation. Cameras track and recognize people and their actions, for which Pose Estimation is an important component. Entities relying on services that track and measure human activities rely heavily on human Pose Estimation
+- Amazon Go presents an important domain for the application of Human Pose Estimation. Cameras track and recognize people and their actions, for which Pose Estimation is an important component. Entities relying on services that track and measure human activities rely heavily on human Pose Estimation
 
 ## Informative roadmap on 2D Human Pose Estimation research
 - [Presentation by Wei Yang](https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation)
