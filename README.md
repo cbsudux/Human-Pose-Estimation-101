@@ -72,8 +72,8 @@
 - Lower the better
 - Used for 3D Pose Estimation
 
-<!-- ## AUC
-https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152
+## AUC
+<!--https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152
 https://www.robots.ox.ac.uk/~vgg/publications/2012/Jammalamadaka12a/jammalamadaka12a.pdf --> 
 
 ## Important Applications
