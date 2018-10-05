@@ -15,20 +15,20 @@
 
 # Basics
 
-## Human Pose estimation
-- Defined as the problem of localisation of human joints (or) keypoints
-- A rigid body consists of joints and rigit parts. A body with strong articulation is a body with strong contortion. 
-- Pose estimation is the search for a specific pose in space of all articulated poses
+## Human Pose Estimation
+- Defined as the problem of localization of human joints (or) keypoints
+- A rigid body consists of joints and rigid parts. A body with strong articulation is a body with strong contortion. 
+- Pose Estimation is the search for a specific pose in space of all articulated poses
 - Number of keypoints varies with dataset -  LSP has 14, MPII has 16, Human3.6 has 16
-- Classifed into 2D  and 3D pose estimation
-  - __2D Pose estimation__
+- Classifed into 2D  and 3D Pose Estimation
+  - __2D Pose Estimation__
   - Estimate a 2D pose (x,y) coordinates for each joint in pixel space from a RGB image
-  - __3D pose estimation__
+  - __3D Pose Estimation__
   - Estimate a 3D pose (x,y,z) coordinates in metric space from a RGB image, or in previous works, data from a RGB-D sensor.    (However, research in the past few years is heavily focussed on generating 3D poses from 2D images / 2D videos)
 
 ## Loss
-- Most commonly used loss function - Mean squared loss function (Least squares loss)
-- This is a regression problem. The model will try to regress to the the correct coordinates, i.e move to the ground truth coordinatate’s in small incremeents. The model is trained to output continuous coordinates using a Mean squared loss function
+- Most commonly used loss function - Mean Squared Error, MSE(Least Squares Loss)
+- This is a regression problem. The model will try to regress to the the correct coordinates, i.e move to the ground truth coordinatate’s in small increments. The model is trained to output continuous coordinates using a Mean Squared Error loss function
 
 ## Evaluation metrics
 
@@ -62,7 +62,7 @@
 - Higher the better
 
 ### Mean Per Joint Position Error - MPJPE
-- Per joint position error = Euclidean distance between Ground truth and Prediction for a joint
+- Per joint position error = Euclidean distance between ground truth and prediction for a joint
 - Mean per joint position error = Mean of per joint position error for all k joints (Typically, k = 16)
 - Calculated after aligning the root joints (typically the pelvis) of the estimated and groundtruth 3D pose. 
 - __PA MPJPE__
@@ -70,7 +70,7 @@
   - MPJPE calculated after the estimated 3D pose is aligned to the groundtruth by the [Procrustes method](https://www.coursera.org/lecture/robotics-perception/pose-from-3d-point-correspondences-the-procrustes-problem-X22IH)
   - Procrustes method is simply a similarity transformation
 - Lower the better
-- Used for 3D pose estimation
+- Used for 3D Pose Estimation
 
 <!-- ## AUC
 https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152
@@ -81,7 +81,7 @@ https://www.robots.ox.ac.uk/~vgg/publications/2012/Jammalamadaka12a/jammalamadak
 - Human-Computer Interaction (HCI)
 - Virtual Reality
 - Augmented Reality
-- Amazon Go presents an important domain for the application of human pose estimation. Cameras track and recognize people and their actions, for which pose estimation is an important component. Entities relying on services that track and measure human activities rely heavily on human pose estimation
+- Amazon Go presents an important domain for the application of human Pose Estimation. Cameras track and recognize people and their actions, for which Pose Estimation is an important component. Entities relying on services that track and measure human activities rely heavily on human Pose Estimation
 
 ## Informative roadmap on 2D Human Pose Estimation research
 - [Presentation by Wei Yang](https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation)
