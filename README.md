@@ -78,10 +78,10 @@ https://www.robots.ox.ac.uk/~vgg/publications/2012/Jammalamadaka12a/jammalamadak
 
 ## Important Applications
 - Activity recognition
-- Human-Computer Interaction
+- Human-Computer Interaction (HCI)
 - Virtual Reality
 - Augmented Reality
 - Amazon Go presents an important domain for the application of human pose estimation. Cameras track and recognize people and their actions, for which pose estimation is an important component. Entities relying on services that track and measure human activities rely heavily on human pose estimation
 
-## Informative roadmap on 2D Human pose estimation research
+## Informative roadmap on 2D Human Pose Estimation research
 - [Presentation by Wei Yang](https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation)
