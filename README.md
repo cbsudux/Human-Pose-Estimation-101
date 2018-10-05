@@ -11,6 +11,7 @@
   - [MPJPE](#mean-per-joint-position-error---mpjpe)
   - [AUC](#auc)
  - [Important applications](#important-applications)
+ - [Extra](#Informative-roadmap-on-2d-human-pose-estimation-research)
 
 # Basics
 
@@ -31,7 +32,7 @@
 
 ## Evaluation metrics
 
-### Percentage of Correct Parts - pcp
+### Percentage of Correct Parts - PCP
 - A limb is considered detected and a correct part if the distance between the two predicted joint locations and the true limb joint locations is at most half of the limb length (PCP at 0.5 )
 - Measures detection rate of limbs
 - Cons - penalizes shorter limbs
@@ -77,10 +78,10 @@ https://www.robots.ox.ac.uk/~vgg/publications/2012/Jammalamadaka12a/jammalamadak
 
 ## Important Applications
 - Activity recognition
-- human-computer interaction
+- Human-Computer Interaction
 - Virtual Reality
 - Augmented Reality
 - Amazon Go presents an important domain for the application of human pose estimation. Cameras track and recognize people and their actions, for which pose estimation is an important component. Entities relying on services that track and measure human activities rely heavily on human pose estimation
 
-Useful Research Overview on 2D Human pose estimation
-https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation
+## Informative roadmap on 2D Human pose estimation research
+- [Presentation by Wei Yang](https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation)
