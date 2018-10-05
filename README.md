@@ -54,7 +54,7 @@
 - PCK is used for 2D and 3D (PCK3D)
 - Higher the better
 
-### Percentage of detected joints - PDJ
+### Percentage of Detected Joints - PDJ
 - Detected joint is considered correct if the distance between the predicted and the true joint is within a certain fraction of the torso diameter
 - Alleviates the shorter limb problem since shorter limbs have smaller torsos
 - PDJ at 0.2 → Distance between predicted and true join < 0.2 * torso diameter
