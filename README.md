@@ -18,7 +18,7 @@
 - Defined as the problem of localization of human joints (or) keypoints
 - A rigid body consists of joints and rigid parts. A body with strong articulation is a body with strong contortion. 
 - Pose Estimation is the search for a specific pose in space of all articulated poses
-- Number of keypoints varies with dataset -  LSP has 14, MPII has 16, Human3.6 has 16
+- Number of keypoints varies with dataset -  LSP has 14, MPII has 16, 16 are used in Human3.6m
 - Classifed into 2D  and 3D Pose Estimation
   - __2D Pose Estimation__
   - Estimate a 2D pose (x,y) coordinates for each joint in pixel space from a RGB image
