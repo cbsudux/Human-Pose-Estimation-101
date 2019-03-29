@@ -76,7 +76,7 @@
 https://www.robots.ox.ac.uk/~vgg/publications/2012/Jammalamadaka12a/jammalamadaka12a.pdf --> 
 
 ## Important Applications
-- Activity recognition
+- Activity Analysis
 - Human-Computer Interaction (HCI)
 - Virtual Reality
 - Augmented Reality
