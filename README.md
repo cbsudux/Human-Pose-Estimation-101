@@ -1,6 +1,6 @@
 # Human Pose Estimation 101
 
-If you want a slightly more rigorous tutorial and understand how the field has evolved, check out this article I published : [A 2019 guide to Human Pose Estimation with Deep Learning](https://blog.nanonets.com/human-pose-estimation-2d-guide/?utm_source=reddit&utm_medium=social&utm_campaign=pose&utm_content=GROUP_NAME)
+If you want a slightly more rigorous tutorial and understand how the field has evolved, check out this article I published : [A 2019 guide to Human Pose Estimation with Deep Learning](https://blog.nanonets.com/human-pose-estimation-2d-guide/?utm_source=github&utm_medium=social&utm_campaign=pose&utm_content=cbsudux)
 
 
 ## Table of Contents
